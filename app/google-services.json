@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302846051413",
+    "firebase_url": "https://pawpal-1a07d-default-rtdb.firebaseio.com",
+    "project_id": "pawpal-1a07d",
+    "storage_bucket": "pawpal-1a07d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302846051413:android:658941271061be1ddb40dc",
+        "android_client_info": {
+          "package_name": "ph.edu.mseuf.pawpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302846051413-pfhqft3e2leeks8mgi5u86kkh3i4f48o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-gLeaUsO68QmRVBUTWPKMFHtvTBj4bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302846051413-pfhqft3e2leeks8mgi5u86kkh3i4f48o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
